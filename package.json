@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^8.7.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -26,6 +27,10 @@
     "eslint-plugin-vue": "^7.0.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-recommended-scss": "^4.3.0",
+    "stylelint-scss": "^3.19.0",
+    "stylelint-webpack-plugin": "^2.2.2",
     "typescript": "~4.1.5"
   }
 }
